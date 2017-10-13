@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	color: #923808
+}
+
+a {
+	color: #EE02;
+	text-decoration: none;
+
+}
+
+a:hover {
+	color: #f1c4;
+	text-decoration: underline;	
+}
+
+header#header {
+	background: blue;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
