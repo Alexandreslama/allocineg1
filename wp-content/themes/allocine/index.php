@@ -2,6 +2,7 @@
 
 <div id="content">
     <h1>Contenu Principal</h1>
+    
     <?php
     // boucle WordPress
     if (have_posts()){

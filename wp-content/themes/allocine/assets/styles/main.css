@@ -7,22 +7,26 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
-	color: #923808
+	color: #013243
 }
 
 a {
-	color: #EE02;
+	color: #00E640;
 	text-decoration: none;
 
 }
 
 a:hover {
-	color: #f1c4;
+	color: #26A65B;
 	text-decoration: underline;	
 }
 
 header#header {
-	background: blue;
+	background: #4183D7;
 	padding-top: 30px;
 	padding-bottom: 30px;
+}
+
+#content {
+	padding: 20px;
 }
